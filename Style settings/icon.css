@@ -1,0 +1,80 @@
+.icon-holder
+{
+    width: 35px;
+    height: 35px;
+    align-self: center;
+    display: inline-block;
+    cursor: pointer;
+    position: relative;
+}
+.icon-holder:hover
+{
+    background-color: grey;
+    opacity: 0.8;
+}
+.hamburger-icon-holder
+{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 10px;
+    align-self: center;
+    display: inline-block;
+    cursor: pointer;
+}
+.hamburger-icon-holder:hover
+{
+    background-color: grey;
+    opacity: 0.8;
+}
+.tags-icon-holder
+{
+    width: 30px;
+    height: 30px;
+    align-self: center;
+    display: inline-block;
+    justify-self: center;
+    margin-left: 5px;
+    cursor: pointer;
+}
+.tags-icon-holder:hover
+{
+    background-color: grey;
+    opacity: 0.8;
+}
+.tags-icon-holder .tooltip
+{
+    border-style: solid;
+    border-color: grey;
+    display: inline-block;
+    position: absolute;
+    background-color: grey;
+    color: white;
+    margin-top: 30px;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.15s;
+    pointer-events: none;
+}
+.icon-holder .tooltip
+{
+    border-style: solid;
+    border-color: grey;
+    display: inline-block;
+    position: absolute;
+    background-color: grey;
+    color: white;
+    margin-top: 30px;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.15s;
+    pointer-events: none; 
+}
+.icon-holder:hover .tooltip
+{
+    opacity: 1;
+}
+.tags-icon-holder:hover .tooltip
+{
+    opacity: 1;
+}

@@ -1,0 +1,42 @@
+.logo
+{
+    height: 100px;
+    display: inline-block;
+}
+.tags-icon
+{
+    width: 30px;
+    height: 30px;
+}
+.upload-icon
+{
+    width: 35px;
+    height: 35px;
+}
+.notification-icon
+{
+    width: 35px;
+    height: 35px;
+}
+.user-icon
+{
+    width: 35px;
+    height: 35px;
+}
+.hamburger-button
+{
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    align-self: center;
+    display: inline-block;
+}
+.background
+{
+    object-fit: contain;
+}
+.cart-icon
+{
+    width: 35px;
+    height: 35px;
+}
