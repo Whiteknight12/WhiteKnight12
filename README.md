@@ -11,4 +11,4 @@ Greetings, wanderer! I’m **WhiteKnight12**, a fullstack developer.
 - **Email**: nnguyenminhquang786@gmail.com
 - **Facebook**: https://www.facebook.com/nm.quang12
 
-> *"The multiverse is big, but what I haven't learned is bigger."*  
+> *"What if I ever find peace?"*  
