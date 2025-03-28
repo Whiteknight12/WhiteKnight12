@@ -3,7 +3,7 @@
 
 Greetings! I’m **Whiteknight12**, a fullstack developer.  
 <br>
-**Visit my theme github page here: https://whiteknight12.github.io/WhiteKnight12/ **
+Visit my theme github page here: https://whiteknight12.github.io/WhiteKnight12/ 
 
 ## About Me  
 - **Languages Used**: C/C++, C#, Java, JavaScript, Kotlin. (Html/Css, XAML, XML, FXML, Bootstrap).
