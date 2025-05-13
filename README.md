@@ -14,7 +14,7 @@
 
 <p align="left">
   A fullstack developer.
-  Contact me via my private email: {nnguyenminhquang786@gmail.com}.
+  Contact me via my private email: nnguyenminhquang786@gmail.com.
 </p>
 
 ###
