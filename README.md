@@ -13,7 +13,8 @@
 ###
 
 <p align="left">
-  Contact me via my private email: [nnguyenminhquang786@gmail.com].
+  A fullstack developer.
+  Contact me via my private email: {nnguyenminhquang786@gmail.com}.
 </p>
 
 ###
