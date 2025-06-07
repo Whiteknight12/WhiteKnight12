@@ -16,8 +16,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whiteknight12&show_icons=true&theme=light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiteknight12&layout=compact&theme=light&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
