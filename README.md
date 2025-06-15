@@ -10,9 +10,3 @@
 </p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiteknight12&layout=compact&theme=light&hide_border=false&langs_count=8" alt="Top Languages" />
-</div>
-
-###
