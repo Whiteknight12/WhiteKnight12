@@ -6,6 +6,7 @@
 
 <p align="left">
   A fullstack developer.
+<br/>
   Contact me via my private email: nnguyenminhquang786@gmail.com.
 </p>
 
